@@ -1,0 +1,5 @@
+case
+1- no active classes at the moment
+2- class is active but password does not match(Incorrect OTP)
+active classes list, upcoming classes list
+3-  OTP verified, Attendance recorded successfully
